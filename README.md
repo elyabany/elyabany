@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **malware analysis, Mobile Pentesting**
 
-- 👨‍💻 All of my projects are available at [https://elyabany.gitbook.io/cyber-security/](https://elyabany.gitbook.io/cyber-security/)
+- 👨‍💻 All of my projects are available at [Blog](https://github.com/elyabany/MyBlog)
 
-- 📝 I regularly write articles on [https://elyabany.gitbook.io/cyber-security/](https://elyabany.gitbook.io/cyber-security/)
+- 📝 I regularly write articles on [Blog](https://github.com/elyabany/MyBlog)
 
 - 💬 Ask me about **CyberSecurity**
 
