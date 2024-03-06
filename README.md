@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **malware analysis, Mobile Pentesting**
 
-- 👨‍💻 All of my projects are available at [Blog](https://github.com/elyabany/MyBlog)
+- 👨‍💻 All of my projects are available at [Blog](https://medium.com/@moamjad)
 
-- 📝 I regularly write articles on [Blog](https://github.com/elyabany/MyBlog)
+- 📝 I regularly write articles on [Blog](https://medium.com/@moamjad)
 
 - 💬 Ask me about **CyberSecurity**
 
